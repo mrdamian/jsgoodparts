@@ -1,0 +1,1 @@
+Sdocument.writeln('Hello, world!');
